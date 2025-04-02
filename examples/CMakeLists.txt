@@ -38,7 +38,7 @@
 #
 ###############################################################################
 
-cmake_minimum_required (VERSION 3.0)
+cmake_minimum_required (VERSION 3.0...3.14)
 
 # Only built under "check" target
 #  - see https://cmake.org/Wiki/CMakeEmulateMakeCheck
